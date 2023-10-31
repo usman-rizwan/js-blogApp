@@ -95,8 +95,7 @@ function renderPosts() {
             <div class="col">
               <div class="card text-center">
                 <div class="card-body">
-                <span>Post Title:</span>
-                  <h5 class="card-title text-capitalize ">${myPost.postTitle}</h5>
+                  <h5 class="card-title text-capitalize ">Post Title: ${myPost.postTitle}</h5>
                   
                   <p class="card-text">
                   
